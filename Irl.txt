@@ -1,0 +1,23 @@
+https://groups.google.com/forum/#!forum/comp.lang.python
+
+https://stackoverflow.com/tags/python
+
+
+https://github.com/Leo-G/DevopsWiki#python-guides-and-scripts
+
+
+http://www.vogella.com/tutorials/Jenkins/article.html
+
+https://medium.com/netflix-techblog/how-we-build-code-at-netflix-c5d9bd727f15
+
+https://docs.travis-ci.com/user/languages/python
+
+https://github.com/Leo-G/DevopsWiki#python-guides-and-scripts
+
+DevopsWiki
+
+
+https://www.codeproject.com/Articles/1247166/Building-a-DevOps-CI-CD-Pipeline-for-ASP-NET-Core
+
+
+can I create one user group like Inquiry  assign *WASHL* in that and give reports permission suman, so that he can take reports and access of folders that's all *NO Inbox permission*

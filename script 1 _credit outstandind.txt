@@ -1,0 +1,70 @@
+import sys
+def vinay(daily_spend, avail_balance):
+    return int(avail_balance) - int(daily_spend)
+try:
+
+    daily_spend = input("enter amount you spend today")
+    avail_balance = input("enter aviable card balance")
+    #card_Name = input("enter card Name")
+
+except Exception:
+    print "You have entered no values or Non Numeric"
+    sys.exit()
+outputp = vinay(int(daily_spend),int(avail_balance))
+print("total spend and aviable balance: ")
+print (outputp)
+--------------------------------------------------
+# Swaping of two Numbers
+def swaping(a,b):   
+    return a,b
+a = input('Enter a Value')
+b = input('Enter B value')
+a,b = swaping(a=b , b=a)
+print(a,b)
+-------------------------------------------------------
+
+# Swaping of two Numbers
+def swaping(a,b):   
+    return 
+a = input('Enter a Value')
+b = input('Enter B value')
+print(int (a))
+print(int (b))
+if a > b:
+    a = int(a - b)
+    b = int(a + b)
+    resl = swaping(int(a),int (b))
+    print(resl)
+else:
+    b = b - a
+    a = a + b
+    resl = swaping(int(a),int (b))
+    print(resl)
+   
+
+# generating tables
+##arr = ['vin','vina']
+##print arr
+##print arr[0]
+##arr[1]= 'hello'
+##print arr[1]
+##print arr
+##a = list(range(1,100))
+##print a
+
+
+##a = [x for x in range(1,100) if x % 2 == 0]
+##print a
+
+##a = [ x*2 for x in range(1,20)]
+##print a
+arr = "vinay"
+#print list(arr)
+
+b = [ord(v) for v in list(arr)]
+print b
+
+
+
+     
+    
